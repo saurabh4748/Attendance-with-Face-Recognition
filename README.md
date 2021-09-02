@@ -34,4 +34,7 @@
    <br>We’ll do this using a process called Convolution. The idea of convolution is inspired partly by computer science and partly by biology.
     <br>Instead of feeding entire images into our neural network as one grid of numbers, we’re going to do something a lot smarter that takes advantage of the idea that an           object is the same no matter where it appears in a picture.
     <br>The solution is to train a Deep Convolutional Neural Network. 
+    
+    
+ <img src="https://github.com/saurabh4748/Attendance-with-Face-Recognition/blob/master/Screenshot%20(123).png">
 
